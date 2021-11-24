@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessLibrary", "ChessLibrary.csproj", "{DD4058A3-05B1-45AF-AC29-8889D81C87AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessLibrary", ".\ChessLibrary\ChessLibrary.csproj", "{DD4058A3-05B1-45AF-AC29-8889D81C87AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoLibrary", "..\GoLibrary\GoLibrary.csproj", "{CCF31D49-8876-404B-9C63-062D15924C1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoLibrary", ".\GoLibrary\GoLibrary.csproj", "{CCF31D49-8876-404B-9C63-062D15924C1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobPlayers", "..\BobPlayer\BobPlayers.csproj", "{5DD7CF5E-336F-404C-AFE6-E3A877CEE7D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobPlayers", ".\BobPlayer\BobPlayers.csproj", "{5DD7CF5E-336F-404C-AFE6-E3A877CEE7D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame", "..\ChessGame\ChessGame.csproj", "{72455F8A-2920-4816-8F7D-DBF2B22A8B61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame", ".\ChessGame\ChessGame.csproj", "{72455F8A-2920-4816-8F7D-DBF2B22A8B61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
